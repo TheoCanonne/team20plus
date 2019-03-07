@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WEB-INF/classes"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="/Users/theocanonne/Desktop/Site/apache-tomcat-9.0.13/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/Users/theocanonne/Desktop/Site/apache-tomcat-9.0.13/webapps/Sitedepeche/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/theocanonne/Desktop/Site/apache-tomcat-9.0.13/webapps/Sitedepeche/WEB-INF/lib/mysql.jar"/>
+	<classpathentry kind="lib" path="/Users/theocanonne/Desktop/Site/apache-tomcat-9.0.13/webapps/Sitedepeche/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/Users/theocanonne/Desktop/Site/apache-tomcat-9.0.13/webapps/Sitedepeche/WEB-INF/lib/jsoup-1.11.3 14.46.49.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
